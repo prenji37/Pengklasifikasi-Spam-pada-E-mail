@@ -51,11 +51,11 @@ Aplikasi ini adalah sistem deteksi email spam menggunakan berbagai algoritma pem
 
 ## Hasil Akurasi
 Algoritma	Ekstraksi Fitur	Akurasi
-KNN	TF-IDF	74%
-KNN	Word2Vec	91%
-Naive Bayes	TF-IDF	92%
-Naive Bayes	Word2Vec	97%
-SVM	TF-IDF	98%
-SVM	Word2Vec	88%
+- KNN	TF-IDF	74%
+- KNN	Word2Vec	91%
+- Naive Bayes	TF-IDF	92%
+- Naive Bayes	Word2Vec	97%
+- SVM	TF-IDF	98%
+- SVM	Word2Vec	88%
 
-- Dari hasil tersebut, SVM dengan TF-IDF memiliki akurasi terbaik sebesar 98%.
+**Dari hasil tersebut, SVM dengan TF-IDF memiliki akurasi terbaik sebesar 98%.**
