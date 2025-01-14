@@ -1,0 +1,174 @@
+Text Email,Prediction
+"hellowwww, ini ella yaa. Ini aku coba coba coba coba. pretty. my love. babe. hellow",Spam
+Text Email,Prediction
+pretty. my love. babe,Spam
+Text Email,Prediction
+"tes, ini ella",Not Spam
+Text Email,Prediction
+gygigi,Not Spam
+Text Email,Prediction
+"ini ella, ini di tes 1 2 3. ela cantik asksks",Spam
+Text Email,Prediction
+tes 1111,Spam
+Text Email,Prediction
+halow ini ela,Spam
+Text Email,Prediction
+hai,Not Spam
+Text Email,Prediction
+knn uda bisa ga yea,Spam
+Text Email,Prediction
+GATAU AH,Spam
+Text Email,Prediction
+masukkan text email,Spam
+Text Email,Prediction
+ayo,Not Spam
+Text Email,Prediction
+,Not Spam
+Text Email,Prediction
+tes yayayayaya,Not Spam
+Text Email,Prediction
+tes yayayayaya,Not Spam
+<__main__.SpamDetectorApp object at 0x00000253B62B0290>,Not Spam,0
+<__main__.SpamDetectorApp object at 0x00000253AEBC7B10>,Not Spam,0
+<__main__.SpamDetectorApp object at 0x00000253AEBC7B10>,Not Spam,0
+<__main__.SpamDetectorApp object at 0x00000253AEBC7B10>,Not Spam,0
+<__main__.SpamDetectorApp object at 0x00000253AEBC7B10>,Not Spam,0
+<__main__.SpamDetectorApp object at 0x00000253B4AC0F50>,Not Spam,0
+<__main__.SpamDetectorApp object at 0x00000253B4AC0F50>,Not Spam,0
+,Not Spam,knn
+lagi lagi lagi,Not Spam,knn
+,Not Spam,knn
+,Not Spam,knn
+,Not Spam,knn
+rizky,Not Spam,knn
+rizky,Not Spam,naive_bayes
+fhdgkwjgdkjwb iyaaaa jelek seklai gatau,Not Spam,naive_bayes
+fhdgkwjgdkjwb iyaaaa jelek seklai gatau,Not Spam,knn
+,Not Spam,knn
+,Not Spam,naive_bayes
+,Not Spam,knn
+,Not Spam,svm
+,Not Spam,knn
+,Not Spam,knn
+,Not Spam,knn
+,Not Spam,knn
+,Not Spam,knn
+,Not Spam,knn
+helowwww,Not Spam,knn
+helowwww,Not Spam,naive_bayes
+,Not Spam,knn
+dfddddddddddd ella yayay,Not Spam,knn
+fgyifgigi,Not Spam,knn
+fgyifgigi,Not Spam,naive_bayes
+,Not Spam,knn
+,Not Spam,KNN
+hellowww this ela,Not Spam,KNN
+hellowww this ela,Not Spam,Naive Bayes
+,Not Spam,SVM
+apa kabarrr cantikkkkkk,Not Spam,KNN
+apa kabarrr cantikkkkkk,Not Spam,Naive Bayes
+apa kabarrr cantikkkkkk,Not Spam,KNN
+,Not Spam,Naive Bayes
+,Not Spam,KNN
+yaaaa,Not Spam,SVM
+tolong bisa yaallah,Spam,SVM
+udah plis fix,Spam,SVM
+udah plis fix,Spam,SVM
+udah plis fix,Spam,SVM
+udah tolong,Spam,SVM
+,Spam,SVM
+heyyo,Spam,SVM
+coooba,Spam,SVM
+maw pamer udh bisa,Spam,SVM
+maw pamer udh bisa,Spam,SVM
+maw pamer udh bisa,Spam,SVM
+kok svm semua,Spam,SVM
+kok svm semua,Spam,SVM
+kok svm semua,Spam,SVM
+tes uda bisa kan,Spam,KNN
+koooo tolong,Spam,Naive Bayes
+haarusnya bisa,Spam,Naive Bayes
+plis bngt ini teh,Spam,SVM
+apa kabarrr cantikkkkkk,Spam,SVM
+,Spam,SVM
+udh,Spam,SVM
+aakuuu cantikkk,Spam,SVM
+tes yayayayaya,Spam,SVM
+tes yayayayaya,Spam,KNN
+,Spam,SVM
+,Spam,Naive Bayes
+aaku cantik,Spam,Naive Bayes
+aaku cantik,Spam,SVM
+hai,Spam,SVM
+hai,Spam,KNN
+hai,Spam,SVM
+hai,Spam,KNN
+are giving can continue chase this deal down you need,Not Spam,Naive Bayes
+are giving can continue chase this deal down you need,Not Spam,SVM
+are giving can continue chase this deal down you need,Not Spam,KNN
+tulis teksnya disini yaaa,Spam,KNN
+heyyo whatsup geng,Not Spam,Naive Bayes
+heyyo whatsup geng,Spam,SVM
+dicoba,Not Spam,Naive Bayes
+,Not Spam,Naive Bayes
+,Spam,KNN
+heelo,Spam,KNN
+masi salah,Spam,KNN
+knknknknnnn,Not Spam,Naive Bayes
+knknknknnnn,Spam,SVM
+helo,Spam,SVM
+helo,Spam,Naive Bayes
+heyyo whatsup geng,Not Spam,Naive Bayes
+heyyo whatsup geng,Spam,SVM
+are giving can continue chase this deal down you need,Not Spam,SVM
+are giving can continue chase this deal down you need,Not Spam,Naive Bayes
+name ela,Spam,SVM
+name ela,Not Spam,Naive Bayes
+aku disiniii,Spam,SVM
+aku disiniii,Spam,SVM
+aku disiniii,Not Spam,Naive Bayes
+kenapa gabisaa ndoejip,Not Spam,Naive Bayes
+kenapa gabisaa ndoejip,Spam,SVM
+are giving can continue chase this deal down you need,Not Spam,KNN
+spamnya gimana anjir knn,Not Spam,KNN
+photoshop windows office cheap,Not Spam,KNN
+ues dongbro,Not Spam,KNN
+tolong udah,Not Spam,KNN
+kenapa pdhl uda keluar,Not Spam,KNN
+,Not Spam,KNN
+have idea,Spam,SVM
+have idea,Not Spam,Naive Bayes
+have idea,Not Spam,KNN
+dont have any idea,Spam,SVM
+dont have any idea,Not Spam,Naive Bayes
+dont have any idea,Not Spam,KNN
+,Spam,SVM
+test hhv fkbk,Not Spam,KNN
+testff ijl kgkg,Not Spam,KNN
+dwfhh dfgs,Not Spam,KNN
+gjfjf jghjg,Not Spam,KNN
+hfishj nhjjjvsdf,Not Spam,KNN
+hfishj nhjjjvsdf,Not Spam,KNN
+nhnh brth,Not Spam,KNN
+vdsbh hyh,Not Spam,KNN
+vsdfhvhjld djjlgfjdbs,Not Spam,KNN
+vsdfhvhjld djjlgfjdbs,Not Spam,KNN
+vsdfhvhjld djjlgfjdbs,Spam,SVM
+vsdfhvhjld djjlgfjdbs,Not Spam,Naive Bayes
+vsdfhvhjld djjlgfjdbs,Not Spam,KNN
+knn kenapa manisssss,Not Spam,KNN
+hello sir pretty,Not Spam,KNN
+hello sir,Not Spam,KNN
+hello sir,Spam,SVM
+hello sir,Not Spam,KNN
+hello sir,Spam,Naive Bayes
+love,Spam,Naive Bayes
+love,Not Spam,KNN
+love,Not Spam,SVM
+ffjf fgjf jvj,Not Spam,Naive Bayes
+ffjf fgjf jvj,Not Spam,KNN
+love,Not Spam,KNN
+love,Not Spam,KNN
+love,Not Spam,KNN
+love,Not Spam,SVM
+love,Spam,Naive Bayes
