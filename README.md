@@ -1,50 +1,45 @@
-Deteksi Spam pada Email
-Proyek ini bertujuan untuk mengembangkan sistem klasifikasi teks untuk mendeteksi apakah sebuah email termasuk spam atau bukan. Sistem ini menggunakan beberapa algoritma pembelajaran mesin dan metode ekstraksi fitur untuk memproses dan menganalisis data email.
+# Deteksi Spam/Ham Email
 
-Daftar Isi
-Pendahuluan
-Fitur dan Teknologi
-Cara Penggunaan
-Hasil dan Analisis
-Kesimpulan
-Referensi
-Pendahuluan
-Email spam adalah pesan elektronik yang tidak diinginkan dan dapat mengganggu pengguna. Proyek ini bertujuan untuk:
+Aplikasi ini adalah sistem deteksi email spam menggunakan berbagai algoritma pembelajaran mesin seperti SVM, KNN, dan Naive Bayes. Sistem ini dilengkapi dengan antarmuka pengguna berbasis Python `tkinter` untuk memudahkan penggunaan.
 
-Membersihkan data email dari informasi yang tidak relevan.
-Mengklasifikasikan email berdasarkan kategori spam dan non-spam.
-Mengevaluasi performa algoritma untuk menentukan metode terbaik.
-Metode yang digunakan mencakup ekstraksi fitur seperti TF-IDF dan Word2Vec, serta algoritma klasifikasi seperti K-Nearest Neighbors (KNN), Support Vector Machine (SVM), dan Naive Bayes.
+## Fitur Utama
 
-Fitur dan Teknologi
-Ekstraksi Fitur: TF-IDF, Word2Vec
-Algoritma Klasifikasi:
-K-Nearest Neighbors (KNN)
-Support Vector Machine (SVM)
-Naive Bayes
-Library Python:
-Scikit-learn
-Gensim
-Spacy
-Num2Words
-Cara Penggunaan
-Input Email: Masukkan teks email yang ingin dideteksi ke dalam aplikasi.
-Pilih Algoritma: Pilih salah satu algoritma yang tersedia (SVM, KNN, Naive Bayes).
-Proses Deteksi: Klik tombol "Detect" untuk memproses teks.
-Hasil: Aplikasi akan menampilkan apakah email termasuk spam atau tidak.
-Kode lengkap dapat ditemukan di file spam_detector.py.
+### 1. Input Teks Email
+- Masukkan teks email yang ingin dianalisis.
 
-Hasil dan Analisis
-KNN:
-TF-IDF: Akurasi 74%
-Word2Vec: Akurasi 91%
-Naive Bayes:
-TF-IDF: Akurasi 92%
-Word2Vec: Akurasi 97%
-SVM:
-TF-IDF: Akurasi 98%
-Word2Vec: Akurasi 88%
-Dari hasil ini, model SVM dengan TF-IDF menunjukkan performa terbaik dengan akurasi 98%.
+### 2. Pemilihan Algoritma
+- Pilih algoritma deteksi:
+  - **Support Vector Machine (SVM)**
+  - **K-Nearest Neighbors (KNN)**
+  - **Naive Bayes**
 
-Kesimpulan
-Proyek ini berhasil mengimplementasikan sistem deteksi spam dengan performa yang tinggi. Metode terbaik yang ditemukan adalah SVM dengan TF-IDF. Sistem ini dapat membantu meningkatkan efisiensi pengelolaan email dan keamanan komunikasi.
+### 3. Deteksi Spam/Ham
+- Klik tombol `Detect` untuk mengetahui hasil klasifikasi.
+
+### 4. Hapus Teks
+- Gunakan tombol `Clear` untuk membersihkan input.
+
+### 5. Simpan Hasil
+- Hasil deteksi akan disimpan secara otomatis ke dalam file CSV.
+
+## Struktur Proyek
+
+### File Utama
+- **`spam_detector.py`**: File utama untuk menjalankan aplikasi.
+
+### Model
+- **`svm_model.pkl`**: Model SVM dengan TF-IDF.
+- **`Naive_model.pkl`**: Model Naive Bayes.
+
+### Library yang Digunakan
+- `tkinter` untuk antarmuka pengguna.
+- `Scikit-learn` untuk pembelajaran mesin.
+- `Gensim` untuk ekstraksi fitur Word2Vec.
+- `Spacy` untuk pemrosesan teks.
+- `Num2Words` untuk konversi angka menjadi teks.
+
+## Cara Menggunakan
+
+1. Jalankan aplikasi dengan perintah:
+   ```bash
+   python spam_detector.py
