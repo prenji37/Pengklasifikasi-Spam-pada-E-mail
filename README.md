@@ -43,3 +43,19 @@ Aplikasi ini adalah sistem deteksi email spam menggunakan berbagai algoritma pem
 1. Jalankan aplikasi dengan perintah:
    ```bash
    python spam_detector.py
+
+2. Masukkan teks email yang ingin dideteksi.
+3. Pilih algoritma dari menu dropdown.
+4. Klik tombol Detect untuk melihat hasil.
+5. Gunakan tombol Clear untuk menghapus teks.
+
+## Hasil Akurasi
+Algoritma	Ekstraksi Fitur	Akurasi
+KNN	TF-IDF	74%
+KNN	Word2Vec	91%
+Naive Bayes	TF-IDF	92%
+Naive Bayes	Word2Vec	97%
+SVM	TF-IDF	98%
+SVM	Word2Vec	88%
+
+- Dari hasil tersebut, SVM dengan TF-IDF memiliki akurasi terbaik sebesar 98%.
